@@ -1,10 +1,10 @@
-package me.lemphis.springtemplate
+package me.lemphis.kopringdemo
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class SpringTemplateApplicationTests {
+class KopringDemoApplicationTests {
 
 	@Test
 	fun contextLoads() {

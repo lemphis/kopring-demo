@@ -1,11 +1,11 @@
-package me.lemphis.springtemplate
+package me.lemphis.kopringdemo
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class SpringTemplateApplication
+class KopringDemoApplication
 
 fun main(args: Array<String>) {
-	runApplication<SpringTemplateApplication>(*args)
+	runApplication<KopringDemoApplication>(*args)
 }
